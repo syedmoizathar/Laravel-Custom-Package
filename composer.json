@@ -1,0 +1,19 @@
+{
+    "name": "vendor/mzpackage",
+    "description": "Moiz Athar - A simple Laravel Package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Mzpackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Moiz Athar",
+            "email": "moizathar90@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
